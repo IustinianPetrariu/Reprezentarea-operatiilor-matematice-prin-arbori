@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578608012 source:d:\c++\proiectupgrade++\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<cstring>
+
